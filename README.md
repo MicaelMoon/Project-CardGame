@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -55,11 +53,7 @@ export default tseslint.config({
 });
 ```
 
-=======
-
 # Project-CardGame
-
-> > > > > > > a35b596eca674e56b3113f560f06e7df98c54591
 
 2025-04-08: Trying to get the baoard set up, displaying card spots filled or empty.
 2025-04-09: Fixed a decent frontend that will do for now. Next, impliment game logic.
